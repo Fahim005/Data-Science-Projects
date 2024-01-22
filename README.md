@@ -1,4 +1,4 @@
-Steps / Works wsing R in Rstudio :
+Steps / Works using R in Rstudio :
 
 1.Importing data
 2.Importing necessary libraries
